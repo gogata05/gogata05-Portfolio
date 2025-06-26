@@ -89,6 +89,12 @@ const certificates = [
   },
   {
     date: "October 2022 - May 2024",
+    title: "Diploma for JS Full-Stack Developer",
+    link: "https://softuni.bg/certificates/details/245600/3417aaae",
+    image: "/images/javascript-full-stack.png"
+  },
+  {
+    date: "October 2022 - May 2024",
     title: "Diploma for JS Web Developer",
     link: "https://softuni.bg/certificates/details/215936/8d639b39",
     image: "/images/JS Web Developer.png"
